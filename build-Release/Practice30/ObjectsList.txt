@@ -1,0 +1,1 @@
+../build-Release/Practice30/main.cpp.o   

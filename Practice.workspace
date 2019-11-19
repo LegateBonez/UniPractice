@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Practice" Database="" Version="10000">
+  <Project Name="Practice1" Path="Practice1/Practice1.project" Active="No"/>
+  <Project Name="Practice2" Path="Practice2/Practice2.project" Active="No"/>
+  <Project Name="Practice3" Path="Practice3/Practice3.project" Active="No"/>
+  <Project Name="Practice4" Path="Practice4/Practice4.project" Active="No"/>
+  <Project Name="Practice5" Path="Practice5/Practice5.project" Active="No"/>
+  <Project Name="Practice6" Path="Practice6/Practice6.project" Active="No"/>
+  <Project Name="Practice7" Path="Practice7/Practice7.project" Active="No"/>
+  <Project Name="Practice8" Path="Practice8/Practice8.project" Active="No"/>
+  <Project Name="Practice9" Path="Practice9/Practice9.project" Active="No"/>
+  <Project Name="Practice10" Path="Practice10/Practice10.project" Active="No"/>
+  <Project Name="Practice11" Path="Practice11/Practice11.project" Active="No"/>
+  <Project Name="Practice12" Path="Practice12/Practice12.project" Active="No"/>
+  <Project Name="Practice13" Path="Practice13/Practice13.project" Active="No"/>
+  <Project Name="Practice14" Path="Practice14/Practice14.project" Active="No"/>
+  <Project Name="Practice15" Path="Practice15/Practice15.project" Active="No"/>
+  <Project Name="Practice16" Path="Practice16/Practice16.project" Active="No"/>
+  <Project Name="Practice17" Path="Practice17/Practice17.project" Active="No"/>
+  <Project Name="Practice18" Path="Practice18/Practice18.project" Active="No"/>
+  <Project Name="Practice19" Path="Practice19/Practice19.project" Active="No"/>
+  <Project Name="Practice20" Path="Practice20/Practice20.project" Active="No"/>
+  <Project Name="Practice21" Path="Practice21/Practice21.project" Active="No"/>
+  <Project Name="Practice22" Path="Practice22/Practice22.project" Active="No"/>
+  <Project Name="Practice23" Path="Practice23/Practice23.project" Active="No"/>
+  <Project Name="Practice24" Path="Practice24/Practice24.project" Active="No"/>
+  <Project Name="Practice25" Path="Practice25/Practice25.project" Active="No"/>
+  <Project Name="Practice26" Path="Practice26/Practice26.project" Active="No"/>
+  <Project Name="Practice27" Path="Practice27/Practice27.project" Active="No"/>
+  <Project Name="Practice28" Path="Practice28/Practice28.project" Active="No"/>
+  <Project Name="Practice29" Path="Practice29/Practice29.project" Active="No"/>
+  <Project Name="Practice30" Path="Practice30/Practice30.project" Active="No"/>
+  <Project Name="Practice31" Path="Practice31/Practice31.project" Active="No"/>
+  <Project Name="Practice32" Path="Practice32/Practice32.project" Active="No"/>
+  <Project Name="Practice33" Path="Practice33/Practice33.project" Active="No"/>
+  <Project Name="Practice34" Path="Practice34/Practice34.project" Active="No"/>
+  <Project Name="Practice35" Path="Practice35/Practice35.project" Active="No"/>
+  <Project Name="Practice36" Path="Practice36/Practice36.project" Active="No"/>
+  <Project Name="Practice37" Path="Practice37/Practice37.project" Active="No"/>
+  <Project Name="Practice38" Path="Practice38/Practice38.project" Active="No"/>
+  <Project Name="Practice39" Path="Practice39/Practice39.project" Active="No"/>
+  <Project Name="Practice40" Path="Practice40/Practice40.project" Active="No"/>
+  <Project Name="Practice41" Path="Practice41/Practice41.project" Active="No"/>
+  <Project Name="Practice42" Path="Practice42/Practice42.project" Active="No"/>
+  <Project Name="Practice43" Path="Practice43/Practice43.project" Active="No"/>
+  <Project Name="Practice44" Path="Practice44/Practice44.project" Active="No"/>
+  <Project Name="Practice45" Path="Practice45/Practice45.project" Active="No"/>
+  <Project Name="Practice45" Path="Practice45/Practice45.project" Active="No"/>
+  <Project Name="Practice46" Path="Practice46/Practice46.project" Active="No"/>
+  <Project Name="Practice47" Path="Practice47/Practice47.project" Active="No"/>
+  <Project Name="Practice48" Path="Practice48/Practice48.project" Active="No"/>
+  <Project Name="Practice49" Path="Practice49/Practice49.project" Active="No"/>
+  <Project Name="Practice50" Path="Practice50/Practice50.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="no">
+      <Environment/>
+      <Project Name="Practice1" ConfigName="Debug"/>
+      <Project Name="Practice2" ConfigName="Debug"/>
+      <Project Name="Practice3" ConfigName="Debug"/>
+      <Project Name="Practice4" ConfigName="Debug"/>
+      <Project Name="Practice5" ConfigName="Debug"/>
+      <Project Name="Practice6" ConfigName="Debug"/>
+      <Project Name="Practice7" ConfigName="Debug"/>
+      <Project Name="Practice8" ConfigName="Debug"/>
+      <Project Name="Practice9" ConfigName="Debug"/>
+      <Project Name="Practice10" ConfigName="Debug"/>
+      <Project Name="Practice11" ConfigName="Debug"/>
+      <Project Name="Practice12" ConfigName="Debug"/>
+      <Project Name="Practice13" ConfigName="Debug"/>
+      <Project Name="Practice14" ConfigName="Debug"/>
+      <Project Name="Practice15" ConfigName="Debug"/>
+      <Project Name="Practice16" ConfigName="Debug"/>
+      <Project Name="Practice17" ConfigName="Debug"/>
+      <Project Name="Practice18" ConfigName="Debug"/>
+      <Project Name="Practice19" ConfigName="Debug"/>
+      <Project Name="Practice20" ConfigName="Debug"/>
+      <Project Name="Practice21" ConfigName="Debug"/>
+      <Project Name="Practice22" ConfigName="Debug"/>
+      <Project Name="Practice23" ConfigName="Debug"/>
+      <Project Name="Practice24" ConfigName="Debug"/>
+      <Project Name="Practice25" ConfigName="Debug"/>
+      <Project Name="Practice26" ConfigName="Debug"/>
+      <Project Name="Practice27" ConfigName="Debug"/>
+      <Project Name="Practice28" ConfigName="Debug"/>
+      <Project Name="Practice29" ConfigName="Debug"/>
+      <Project Name="Practice30" ConfigName="Debug"/>
+      <Project Name="Practice31" ConfigName="Debug"/>
+      <Project Name="Practice32" ConfigName="Debug"/>
+      <Project Name="Practice33" ConfigName="Debug"/>
+      <Project Name="Practice34" ConfigName="Debug"/>
+      <Project Name="Practice35" ConfigName="Debug"/>
+      <Project Name="Practice36" ConfigName="Debug"/>
+      <Project Name="Practice37" ConfigName="Debug"/>
+      <Project Name="Practice38" ConfigName="Debug"/>
+      <Project Name="Practice39" ConfigName="Debug"/>
+      <Project Name="Practice40" ConfigName="Debug"/>
+      <Project Name="Practice41" ConfigName="Debug"/>
+      <Project Name="Practice42" ConfigName="Debug"/>
+      <Project Name="Practice43" ConfigName="Debug"/>
+      <Project Name="Practice44" ConfigName="Debug"/>
+      <Project Name="Practice45" ConfigName="Debug"/>
+      <Project Name="Practice45" ConfigName="Debug"/>
+      <Project Name="Practice46" ConfigName="Debug"/>
+      <Project Name="Practice47" ConfigName="Debug"/>
+      <Project Name="Practice48" ConfigName="Debug"/>
+      <Project Name="Practice49" ConfigName="Debug"/>
+      <Project Name="Practice50" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Practice1" ConfigName="Release"/>
+      <Project Name="Practice2" ConfigName="Release"/>
+      <Project Name="Practice3" ConfigName="Release"/>
+      <Project Name="Practice4" ConfigName="Release"/>
+      <Project Name="Practice5" ConfigName="Release"/>
+      <Project Name="Practice6" ConfigName="Release"/>
+      <Project Name="Practice7" ConfigName="Release"/>
+      <Project Name="Practice8" ConfigName="Release"/>
+      <Project Name="Practice9" ConfigName="Release"/>
+      <Project Name="Practice10" ConfigName="Release"/>
+      <Project Name="Practice11" ConfigName="Release"/>
+      <Project Name="Practice12" ConfigName="Release"/>
+      <Project Name="Practice13" ConfigName="Release"/>
+      <Project Name="Practice14" ConfigName="Release"/>
+      <Project Name="Practice15" ConfigName="Release"/>
+      <Project Name="Practice16" ConfigName="Release"/>
+      <Project Name="Practice17" ConfigName="Release"/>
+      <Project Name="Practice18" ConfigName="Release"/>
+      <Project Name="Practice19" ConfigName="Release"/>
+      <Project Name="Practice20" ConfigName="Release"/>
+      <Project Name="Practice21" ConfigName="Release"/>
+      <Project Name="Practice22" ConfigName="Release"/>
+      <Project Name="Practice23" ConfigName="Release"/>
+      <Project Name="Practice24" ConfigName="Release"/>
+      <Project Name="Practice25" ConfigName="Release"/>
+      <Project Name="Practice26" ConfigName="Release"/>
+      <Project Name="Practice27" ConfigName="Release"/>
+      <Project Name="Practice28" ConfigName="Release"/>
+      <Project Name="Practice29" ConfigName="Release"/>
+      <Project Name="Practice30" ConfigName="Release"/>
+      <Project Name="Practice31" ConfigName="Release"/>
+      <Project Name="Practice32" ConfigName="Release"/>
+      <Project Name="Practice33" ConfigName="Release"/>
+      <Project Name="Practice34" ConfigName="Release"/>
+      <Project Name="Practice35" ConfigName="Release"/>
+      <Project Name="Practice36" ConfigName="Release"/>
+      <Project Name="Practice37" ConfigName="Release"/>
+      <Project Name="Practice38" ConfigName="Release"/>
+      <Project Name="Practice39" ConfigName="Release"/>
+      <Project Name="Practice40" ConfigName="Release"/>
+      <Project Name="Practice41" ConfigName="Release"/>
+      <Project Name="Practice42" ConfigName="Release"/>
+      <Project Name="Practice43" ConfigName="Release"/>
+      <Project Name="Practice44" ConfigName="Release"/>
+      <Project Name="Practice45" ConfigName="Release"/>
+      <Project Name="Practice45" ConfigName="Release"/>
+      <Project Name="Practice46" ConfigName="Release"/>
+      <Project Name="Practice47" ConfigName="Release"/>
+      <Project Name="Practice48" ConfigName="Release"/>
+      <Project Name="Practice49" ConfigName="Release"/>
+      <Project Name="Practice50" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

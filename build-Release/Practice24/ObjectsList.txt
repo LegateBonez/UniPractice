@@ -1,0 +1,1 @@
+../build-Release/Practice24/main.cpp.o   
