@@ -1,0 +1,1 @@
+../build-Release/Practice60/main.cpp.o   

@@ -1,0 +1,1 @@
+../build-Release/Practice71/main.cpp.o   

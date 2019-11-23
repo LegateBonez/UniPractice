@@ -1,0 +1,1 @@
+../build-Release/Practice82/main.cpp.o   
